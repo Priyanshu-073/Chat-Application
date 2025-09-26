@@ -2,7 +2,7 @@
 
 A full-stack chat application built with React, Node.js, Express, MongoDB, and Socket.io.
 
-# Deployement
+# Deployment
 https://chat-nine-phi-22.vercel.app/
 ## Project Structure
 
